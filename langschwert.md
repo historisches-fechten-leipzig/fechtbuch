@@ -15,43 +15,43 @@
 
 - Kraftdreieck
 - Knauf tendiert zum starken Arm
-- Starke Hand greift unterhalb der Parierstange
-- Schwache Hand greift oberhalb des Knaufes oder am Knauf, aber nicht zu fest, sondern führt nur mit
+- starke Hand greift unterhalb der Parierstange
+- schwache Hand greift oberhalb des Knaufes oder am Knauf, aber nicht zu fest, sondern führt nur mit
 - Daumenstützgriff: Daumen der Hand an der Parierstange liegt auf dem Blatt für bessere Stabilität
 
 # Stand
 
-- Immer fester Stand
+- immer fester Stand
 	- Beine nebeneinander
-	- Rechten Fuß 90° an der Ferse abwinkeln, dann nochmal 90° in die entgegengesetzte Richtung an der Fußspitze
-	- Eventuell etwas korrigieren
-- Etwas breitbeinig (Füße auf Schulterbreite)
+	- rechten Fuß 90° an der Ferse abwinkeln, dann nochmal 90° in die entgegengesetzte Richtung an der Fußspitze
+	- eventuell etwas korrigieren
+- etwas breitbeinig (Füße auf Schulterbreite)
 - Knie nicht durchgedrückt
 
 # Schritte
 
 - Kein wippender Gang
 - Oberkörper bleibt auf der selben Position
-- Leicht tief
+- leicht tief
 
 ## Halbschritt
 
-- Auch Passschritt
+- auch Passschritt
 - Schritt mit einem Bein am anderen vorbei
 
 ## Schritt
 
-- Doppelter Halbschritt
-- Wie normales gehen
+- doppelter Halbschritt
+- wie normales gehen
 
 ## Nachstellschritt
 
-- Hinteren Fuß kurz hinter vorderen Fuß vorn zum Untersetzen
+- hinteren Fuß kurz hinter vorderen Fuß vorn zum Untersetzen
 
 ## Gleitschritt
 
-- Vorderen Fuß zuerst etwas nach vorn bewegen
-- Hinteren Fuß nachziehen
+- vorderen Fuß zuerst etwas nach vorn bewegen
+- hinteren Fuß nachziehen
 
 # Huten
 
@@ -63,22 +63,22 @@
 
 - Schwert aufrecht an der Schulter gehalten
 - Parierstange auf Achselhöhe
-- Lange Schneide zeigt zum Gegner
-- Fast alle Techniken aus dieser Position möglich
+- lange Schneide zeigt zum Gegner
+- fast alle Techniken aus dieser Position möglich
 - keine direkte Bedrohung des Gegners
 
 ### Über Kopf
 
 - Hände vor und über dem Kopf, Ort nach oben gerichtet
-- Größte Reichweite
-- Wirkt meist bedrohlich, Gegner erwidert die Hut, Gegner zum Aufgeben des langen Ortes bewegen
+- größte Reichweite
+- wirkt meist bedrohlich, Gegner erwidert die Hut, Gegner zum Aufgeben des langen Ortes bewegen
 
 ## Langer Ort
 
 - Arme lang
 - Ort direkt auf gegnerisches Gesicht gerichtet
-- Defensive Haltung
-- Nur Stiche möglich
+- defensive Haltung
+- nur Stiche möglich
 
 ## Ochs
 
@@ -88,7 +88,7 @@
 
 ## Hängender Ort
 
-- Ähnlich Ochs
+- ähnlich Ochs
 - Ort allerdings nicht auf Kopf des Gegners gerichtet, sondern auf den Bauch und seitlich von der Mitte zur gegenüberliegenden Seite der eigenen Arme versetzt
 
 ## Pflug
@@ -96,20 +96,20 @@
 - Hände auf Hüfthöhe
 - Ort zeigt zum gegnerischen Gesicht
 - Daumenstützgriff möglich
-- Linker Pflug: kurze Schneide zum Gegner
-- Eher defensive Haltung
+- linker Pflug: kurze Schneide zum Gegner
+- eher defensive Haltung
 
 ## Wechsel
 
-- Ausgestreckte Arme
+- ausgestreckte Arme
 - Ort zeigt seitlich zum Boden
-- Kurze Schneide zeigt zum Gegner
+- kurze Schneide zeigt zum Gegner
 
 ## Alber
 
-- Ausgestreckte Arme
+- ausgestreckte Arme
 - Ort zeigt zum Boden
-- Defensive Haltung
+- defensive Haltung
 - Einladung zum Angriff
 
 ## Kronhut
@@ -119,34 +119,35 @@
 
 # Mensur
 
-- Weit: zwei Schritte oder mehr für erfolgreichen Hieb/Stich benötigt
+- weit: zwei Schritte oder mehr für erfolgreichen Hieb/Stich benötigt
 	- Zufechten, Annäherung
-- Mittel: ein Schritt für erfolgreichen Hieb/Stich benötigt
+- mittel: ein Schritt für erfolgreichen Hieb/Stich benötigt
 	- Hiebe, Schnitte, Stiche
-- Nah: kein Schritt für erfolgreichen Hieb/Stich benötigt
+- nah: kein Schritt für erfolgreichen Hieb/Stich benötigt
 	- Schläge mit dem Knauf, Ringen
 
 # Haue
 
-- Generell gilt:
-	- Keinen Bogen schlagen
-	- Direkt zum Gegner
+- generell gilt:
+	- keinen Bogen schlagen
+	- direkt zum Gegner
 	- Schwertschneide in Schlagrichtung
-	- Nicht ausholen
+	- nicht ausholen
 	- Armbewegung vor Beinbewegung, um Gegner so wenig Zeit wie möglich zur Reaktion zu lassen
+	- der Ort sollte zum Gegner fliegen
 
 ## Oberhau
 
 - Ausgangsstellung: Hut vom Tag Schulter
 - Hieb mit der langen Schneide auf den Kopf
-- Starker Arm schiebt Schwert nach vorn, schwacher Arm zieht Knauf nach oben
-- Für zusätzliche Geschwindigkeit: Schwert nach vorn stoßen und wieder fangen
+- starker Arm schiebt Schwert nach vorn, schwacher Arm zieht Knauf nach oben
+- für zusätzliche Geschwindigkeit: Schwert nach vorn stoßen und wieder fangen
 - Endposition: Pflug
 
 ## Unterhau
 
 - Ausgangsstellung: Wechsel, Hut vom Tag Schulter
-- Entgegengesetzt zum Oberhau
+- entgegengesetzt zum Oberhau
 - Hieb mit der langen Schneide (aus Wechsel auch mit der kurzen Schneide möglich) auf Becken/Bauchraum
 - Endposition: Ochs
 
@@ -154,8 +155,8 @@
 
 - Ausgangsstellung: Hut vom Tag Schulter
 - Hieb zwischen Rippen und Becken
-- Parallel zum Boden geschlagen
-- Zuerst Schwert in die Richtige Höhe kippen, dann schlagen, um Klinge in der richtigen Stellung zu haben
+- parallel zum Boden geschlagen
+- zuerst Schwert in die Richtige Höhe kippen, dann schlagen, um Klinge in der richtigen Stellung zu haben
 - Endposition: Pflug
 
 # Stich
@@ -173,14 +174,14 @@
 ## Zornhau
 
 - Ausgangsstellung: Hut vom Tag Schulter
-- Bricht Oberhau
+- bricht Oberhau
 - Konter: langer Ort
 
 ### Schräg rechts
 
-- Leicht schräger Oberhau etwas nach links versetzt → durch Kraft des gegnerischen Oberhaus wird die Klinge direkt auf den Kopf versetzt (Kraft des gegnerischen Oberhaus einschätzen)
-- Rechtes Bein schräg nach rechts vorn, um aus der gegnerischen Trefferzone zu gelangen
-- Danach linkes Bein nachziehen oder am Gegner vorbeigehen
+- leicht schräger Oberhau etwas nach links versetzt → durch Kraft des gegnerischen Oberhaus wird die Klinge direkt auf den Kopf versetzt (Kraft des gegnerischen Oberhaus einschätzen)
+- rechtes Bein schräg nach rechts vorn, um aus der gegnerischen Trefferzone zu gelangen
+- danach linkes Bein nachziehen oder am Gegner vorbeigehen
 
 ### Seitlich links
 
@@ -190,16 +191,16 @@
 ## Scheitelhau
 
 - Ausgangsstellung: Hut vom Tag über Kopf/Schulter (langsamer)
-- Bricht Alber
-- Konter Stich zu den Armen
+- bricht Alber
+- Konter: Stich zu den Armen
 - Reichweitenvorteil gegenüber allen anderen Aktionen
-- Zum Eröffnen oder vorbereiten von weiteren Aktionen
-- Gerader Schlag von oben auf den Scheitel des Gegners
-	- Schwache Hand dreht den Knauf nach oben
+- zum Eröffnen oder vorbereiten von weiteren Aktionen
+- gerader Schlag von oben auf den Scheitel des Gegners
+	- schwache Hand dreht den Knauf nach oben
 - Abwehr mit Kronhut
-- Nachsetzen mit Stich/Schnitt versuchen, um Gegner zum hochreißen der Arme zu zwingen
+- nachsetzen mit Stich/Schnitt versuchen, um Gegner zum hochreißen der Arme zu zwingen
 - Gegner versucht eventuell Schlag mit dem Knauf
-	- Kontern durch zurückweichen oder seitlich wegdrücken
+	- kontern durch zurückweichen oder seitlich wegdrücken
 - Schnitt zu den Händen oder Blockieren der Hände mit Nachdruck und Gegner aus Kampfzone schieben
 
 ## Krumphau
@@ -209,9 +210,10 @@
 - Oberhau im Schlag abklappen
 - Schritt seitlich nach vorn
 	- Impuls auf die gegnerische Klinge und diese nach unten drücken
-	- Danach Gegner ungedeckt
-- Oder:
-	- Anbinden und weg drücken
+	- mit der Schwäche auf die gegnerische Klingenstärke
+	- danach Gegner ungedeckt
+- oder:
+	- anbinden und weg drücken
 	- Ort in die Mitte bringen
 - Alternative:
 	- auf die Hände schlagen
@@ -225,36 +227,45 @@
 - gegnerisches Schwert mit der Stärke auffangen und seitlich versetzen
 - mit der kurzen Schneide den Hieb setzen
 - Schwert ist in der Entstellung diagonal
-- man versteckt sich selbst hinter dem Schwert
+- sich selbst hinter dem Schwert verstecken
+
+## Zwerchhau
+
+- Ausgangsstellung: Hut vom Tag Schulter
+- bricht vom Tag
+- in den Ochs gehen
+- von rechts: Hieb mit kurzer Schneide
+- von links: Hieb mit langer Schneide
+- Ort am Ende hinter dem Kopf des Gegners
 
 # Winden
 
 - Grundposition: Sprechfenster
 	- Klingen etwa an der Mitte gebunden
 	- Gegner zwischen den Klingen hindurch sichtbar
-- Fühlen im Bande
+- fühlen im Bande
 	- Druck des Gegners im Anbinden einschätzen
 
 ## Duplieren
 
-- Eigener Druck stärker
-- Zum Gegner drücken und Position ähnlich zum Ochs in Richtung des Drucks einnehmen
+- eigener Druck stärker
+- zum Gegner drücken und Position ähnlich zum Ochs in Richtung des Drucks einnehmen
 - Schwert dabei drehen und mit der kurzen Schneide den Angriff durchführen
-- Verkeilen mit Parierstange
+- verkeilen mit Parierstange
 	- Zeichen dafür, dass Fechter zu nah sind oder ein direkter Treffer möglich gewesen wäre
-	- Trotzdem weiter drücken
+	- trotzdem weiter drücken
 
 ## Mutieren
 
-- Eigener Druck schwächer
-- Nachgeben in Richtung des Drucks
-- Danach umschnappen
+- eigener Druck schwächer
+- nachgeben in Richtung des Drucks
+- danach umschnappen
 	- Hände nach oben ziehen 
 	- Endposition ähnlich dem Ochs zur Seite des Drucks
 	- Schwert nach innen eindrehen
 	- Hieb auf den Gegner
 	- Gegner drückt mit eigener Kraft das Schwert zu sich
-	- Eventuell Daumenstützgriff
+	- eventuell Daumenstützgriff
 - Parierstange schützt vor gegnerischer Klinge
 
 # Ringen
@@ -263,8 +274,8 @@
 
 - Ausgangsstellung: Sprechfenster
 - Gleitschritt zum Gegner
-- Gegnerische Klinge mit Parierstange und Rückhand zum Gegner drücken
-- Mit linker Hand hinter den Ellenbogen greifen und die Arme ins Gesicht drücken
+- gegnerische Klinge mit Parierstange und Rückhand zum Gegner drücken
+- mit linker Hand hinter den Ellenbogen greifen und die Arme ins Gesicht drücken
 - Gegner so weiter wegschieben und mit Schwert Hieb oder Stich ausführen
 - Konter: schnelles zurückweichen oder während Druck aufgebaut wird zur Seite drehen und Schwert vor den Kopf hochziehen und Hieb setzen
 
@@ -272,68 +283,68 @@
 
 - Ausgangsstellung: Sprechfenster
 - Gleitschritt zum Gegner
-- Gegnerische Klinge mit Parierstange zum Gegner drücken
-- Mit Knauf den gegnerischen Arm nach unten ziehen, gleichzeitig Hieb zum Kopf mit der Klinge, dabei Schritt zurück
-	- Weiterziehen bis zum Boden und noch eine halbe Drehung bis der Gegner entwaffnet ist
-	- Oder Hebel aufbauen: Arme durchdrücken Knauf nach oben ziehen, mit Klinge Gegner zu Boden drücken
+- gegnerische Klinge mit Parierstange zum Gegner drücken
+- mit Knauf den gegnerischen Arm nach unten ziehen, gleichzeitig Hieb zum Kopf mit der Klinge, dabei Schritt zurück
+	- weiterziehen bis zum Boden und noch eine halbe Drehung bis der Gegner entwaffnet ist
+	- oder Hebel aufbauen: Arme durchdrücken Knauf nach oben ziehen, mit Klinge Gegner zu Boden drücken
 - Konter: selber mit Knauf reißen, Schritt zur Seite und Hieb zum Gegner, Waffe fallen lasse und Beine des Gegners tief umgreifen, Knie zusammendrücken und Gegner zu Fall bringen
 
 ## Fassen
 
 - Ausgangsstellung: Sprechfenster
 - Gleitschritt zum Gegner
-- Gegnerische Klinge mit Parierstange zum Gegner drücken
-- Mit Knauf über den gegnerischen Arm und mit dem Knauf an den Händen ziehen
-- Mit schwachem Arm die gegnerischen Arme möglichst nah am Körper umfassen
+- gegnerische Klinge mit Parierstange zum Gegner drücken
+- mit Knauf über den gegnerischen Arm und mit dem Knauf an den Händen ziehen
+- mit schwachem Arm die gegnerischen Arme möglichst nah am Körper umfassen
 - Klinge neu positionieren
 
 ## Entwaffnen
 
 - Ausgangsstellung: Sprechfenster
 - Gleitschritt zum Gegner
-- Gegnerische Klinge mit Parierstange zum Gegner drücken
-- Gegnerische Waffe zwischen den Händen fassen
-- Gegnerische Waffe zu sich ziehen, eigene mit Parierstange an den gegnerischen Hals drücken, dabei gegnerische Klinge mit der Parierstange weiter auf den Gegner drücken
+- gegnerische Klinge mit Parierstange zum Gegner drücken
+- gegnerische Waffe zwischen den Händen fassen
+- gegnerische Waffe zu sich ziehen, eigene mit Parierstange an den gegnerischen Hals drücken, dabei gegnerische Klinge mit der Parierstange weiter auf den Gegner drücken
 
 ## Verdrehen
 
 - Ausgangsstellung: Sprechfenster
 - Gleitschritt zum Gegner
-- Gegnerische Klinge mit Parierstange zum Gegner drücken
-- Mit Knauf gegnerischen Arm nach vorn ziehen, damit Gegner Gegendruck aufbauen muss
-- Mit schwachen Arm vom Griff lösen und hinter dem Ellenbogen anlegen und Arm des Gegners mit Knauf und Handfläche verdrehen
+- gegnerische Klinge mit Parierstange zum Gegner drücken
+- mit Knauf gegnerischen Arm nach vorn ziehen, damit Gegner Gegendruck aufbauen muss
+- mit schwachen Arm vom Griff lösen und hinter dem Ellenbogen anlegen und Arm des Gegners mit Knauf und Handfläche verdrehen
 
 ## Halbschwerthebel
 
 - Ausgangsstellung: Sprechfenster
-- Gleitschritt zum Gegner
-- Gegnerische Klinge mit Parierstange zum Gegner drücken
-- Mit Knauf über den gegnerischen Arm gehen
-- Schwache Hand lösen und als Halbschwert greifen
-- Mit Hand und Schwert an den Hals drücken
-- Dabei Schritt nach vorn und Knie an die Kniekehle des Gegners bringen
+- gleitschritt zum Gegner
+- gegnerische Klinge mit Parierstange zum Gegner drücken
+- mit Knauf über den gegnerischen Arm gehen
+- schwache Hand lösen und als Halbschwert greifen
+- mit Hand und Schwert an den Hals drücken
+- dabei Schritt nach vorn und Knie an die Kniekehle des Gegners bringen
 - Gegner über Druck in der Kniekehle und vom Halbschwertgriff zu Fall bringen
 
 ## Wurf
 
 - Ausgangsstellung: Sprechfenster
 - Gleitschritt zum Gegner
-- Gegnerische Klinge mit Parierstange zum Gegner drücken
-- Falls Hände hoch enden:
-	- Mit schwachen Arm vom Griff lösen
-	- Abtauchen zum Gegner mit Oberkörper und Arm vor den gegnerischen Oberkörper
+- gegnerische Klinge mit Parierstange zum Gegner drücken
+- falls Hände hoch enden:
+	- mit schwachen Arm vom Griff lösen
+	- abtauchen zum Gegner mit Oberkörper und Arm vor den gegnerischen Oberkörper
 	- Knie in gegnerisches Knie drücken
 	- Gegner so nach unten drücken
 - sonst: 
-	- Mit schwachen Arm vom Griff lösen
-	- Mit Arm gegen gegnerische Schulter/Hals drücken
+	- mit schwachen Arm vom Griff lösen
+	- mit Arm gegen gegnerische Schulter/Hals drücken
 	- Knie in gegnerisches Knie drücken
 	- Gegner so nach unten drücken
 
 ## Abgleiten
 
-- Während gegnerischem Hieb in den hängenden Ort gehen
-- Leicht Schräg auf den Gegner zugehen, um aus der Angriffslinie zu kommen
-- Gegnerische Klinge abgleiten lassen
-- Linke Hand lösen, auf Gegner weiter zugehen und gegnerischen Arm umgreifen und mit dem Knauf schlagen oder am Hals greifen und werfen
+- während gegnerischem Hieb in den hängenden Ort gehen
+- leicht Schräg auf den Gegner zugehen, um aus der Angriffslinie zu kommen
+- gegnerische Klinge abgleiten lassen
+- linke Hand lösen, auf Gegner weiter zugehen und gegnerischen Arm umgreifen und mit dem Knauf schlagen oder am Hals greifen und werfen
 

@@ -2,19 +2,19 @@
 
 - Messergriff
 	- Klinge oben aus der Faust raus
-	- Mit Daumen stützen
+	- mit Daumen stützen
 - Pickelgriff
 	- Klinge unten aus der Faust raus
-- Bei Wechsel Klinge mit Waffenloser Hand fassen
-- Waffenlose Hand am Körper
+- bei Wechsel Klinge mit Waffenloser Hand fassen
+- waffenlose Hand nah am Körper
 
 # Stand
 
-- Immer fester Stand
+- fmmer fester Stand
 - Beine nebeneinander
-- Rechten Fuß 90° an der Ferse abwinkeln, dann nochmal 90° in die entgegengesetzte Richtung an der Fußspitze
-- Eventuell etwas korrigieren
-- Etwas breitbeinig (Füße auf Schulterbreite)
+- rechten Fuß 90° an der Ferse abwinkeln, dann nochmal 90° in die entgegengesetzte Richtung an der Fußspitze
+- eventuell etwas korrigieren
+- etwas breitbeinig (Füße auf Schulterbreite)
 - Knie nicht durchgedrückt
 
 # Stich
@@ -30,20 +30,20 @@
 
 # Abwehr
 
-- Zur Seite und Schnitt auf den gegnerischen Arm, mit Waffenloser Hand unterstützen
-- Gegnerischen Arm nach unten drücken, mit Waffenloser Hand unterstützen
+- zur Seite und Schnitt auf den gegnerischen Arm, mit Waffenloser Hand unterstützen
+- gegnerischen Arm nach unten drücken, mit Waffenloser Hand unterstützen
 - Hände von oben nach unten (Position hoch) / unten nach oben (Position niedrig) wischen und gegnerische Hand wegdrücken
 
 # Unbewaffnete Abwehr
 
 - Stich
-	- Zur Seite ausweichen
+	- zur Seite ausweichen
 	- Arm greifen und mit kurzem Ruck ziehen
-	- Danach eine dieser Varianten:
-		- Gegnerische Hand auf den Boden ziehen
-		- Gegnerischen Arm verdrehen und über den Ellenbogen Oberkörper nach unten zwingen, Waffe entnehmen
+	- danach eine dieser Varianten:
+		- gegnerische Hand auf den Boden ziehen
+		- gegnerischen Arm verdrehen und über den Ellenbogen Oberkörper nach unten zwingen, Waffe entnehmen
 		- Hand zwischen den gegnerischen Beinen durchgeben und hochziehen
-- Plötzliches Waffe ziehen
-	- Mit Hand auf gegnerisches Handgelenk nach unten schlagen, weiteren Stiche mit Unterarm aufhalten und mit freier Hand zum Hals schlagen
-	- Mit Handgelenk auf gegnerisches Handgelenk zur Seite schlagen
+- plötzliches Waffe ziehen
+	- mit Hand auf gegnerisches Handgelenk nach unten schlagen, weiteren Stiche mit Unterarm aufhalten und mit freier Hand zum Hals schlagen
+	- mit Handgelenk auf gegnerisches Handgelenk zur Seite schlagen
 
