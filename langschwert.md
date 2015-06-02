@@ -159,6 +159,12 @@
 - zuerst Schwert in die Richtige Höhe kippen, dann schlagen, um Klinge in der richtigen Stellung zu haben
 - Endposition: Pflug
 
+## Sturzhau
+
+- Beginn wie Oberhau
+- falls passiver Versatz erfolgt, Schwert auf halbem Weg (ca. 45°) in den Ochs ziehen
+- Stich oder Hieb am Versatz vorbei
+
 # Stich
 
 - Angriff mit dem Ort
@@ -279,7 +285,7 @@
 - Gegner so weiter wegschieben und mit Schwert Hieb oder Stich ausführen
 - Konter: schnelles zurückweichen oder während Druck aufgebaut wird zur Seite drehen und Schwert vor den Kopf hochziehen und Hieb setzen
 
-# Reißen
+## Reißen
 
 - Ausgangsstellung: Sprechfenster
 - Gleitschritt zum Gegner
@@ -348,3 +354,22 @@
 - gegnerische Klinge abgleiten lassen
 - linke Hand lösen, auf Gegner weiter zugehen und gegnerischen Arm umgreifen und mit dem Knauf schlagen oder am Hals greifen und werfen
 
+## Schulterschloss
+
+- Ausgangsstellung: Sprechfenster
+- Gleitschritt zum Gegner
+- gegnerische Klinge mit Parierstange zum Gegner drücken
+- Hände enden hoch
+- schwache Hand vom Griff lösen und in Armbeuge anlegen
+- Griff gegen gegnerisches Handgelenk drücken
+- gegnerischen Arm hinter seinen Körper schieben und weiterlaufen
+
+## Schere
+
+- Ausgangsstellung: Sprechfenster
+- Gleitschritt zum Gegner
+- gegnerische Klinge mit Parierstange zum Gegner drücken
+- Hände enden hoch
+- schwache Hand vom Griff lösen
+- Knauf um gegnerisches Handgelenk umschlagen
+- Knauf mit schwacher Hand fassen und zu sich ziehen
