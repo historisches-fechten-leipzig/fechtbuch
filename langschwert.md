@@ -64,6 +64,7 @@
 - Schwert aufrecht an der Schulter gehalten
 - Parierstange auf Achselhöhe
 - lange Schneide zeigt zum Gegner
+- Arme und Hände nah am Körper
 - fast alle Techniken aus dieser Position möglich
 - keine direkte Bedrohung des Gegners
 
@@ -93,6 +94,7 @@
 
 ## Pflug
 
+- Stand etwas tiefer
 - Hände auf Hüfthöhe
 - Ort zeigt zum gegnerischen Gesicht
 - Daumenstützgriff möglich
@@ -101,12 +103,14 @@
 
 ## Wechsel
 
+- Stand etwas tiefer
 - ausgestreckte Arme
 - Ort zeigt seitlich zum Boden
 - kurze Schneide zeigt zum Gegner
 
 ## Alber
 
+- Stand etwas tiefer
 - ausgestreckte Arme
 - Ort zeigt zum Boden
 - defensive Haltung
@@ -126,6 +130,20 @@
 - nah: kein Schritt für erfolgreichen Hieb/Stich benötigt
 	- Schläge mit dem Knauf, Ringen
 
+## Übungen
+
+- Mensurlaufen
+	- Übungspartner stehen sich im langen Ort gegenüber
+	- Klingen berühren sich und überschneiden sich handbreit
+	- einer führt mit beliebigen Schritten
+	- anderer muss mit beliebigen Schritten die Mensur halten
+	- Varianten:
+		- abwechselnd drei Schritte auf die der andere reagieren muss
+		- wenn Klinge zu nah kommt Schwertschneide horizontal eindrehen und so Ort versetzen
+		- zusätzlich kann der Versetzte die Klinge unter dem gegnerischen Schwert auf die andere Seite bringen
+		- andere Huten hinzunehmen, sporadisch zurück in den langen Ort wechseln, um Abstand zu prüfen
+		- ansagen, ab wann man einen Angriff versuchen würde, Kontrolle durch Außenstehenden
+
 # Haue
 
 - generell gilt:
@@ -143,6 +161,17 @@
 - starker Arm schiebt Schwert nach vorn, schwacher Arm zieht Knauf nach oben
 - für zusätzliche Geschwindigkeit: Schwert nach vorn stoßen und wieder fangen
 - Endposition: Pflug
+
+### Übungen
+
+- Hiebtraining
+	- einer greift mit dem Oberhau an
+	- anderer sagt an, ab wann er den Angriff sieht, und überprüft den Bewegungsablauf
+- Block mit einfachem Versatz
+	- einer greift mit dem Oberhau an
+	- anderer versetzt den Angriff indem er sein Schwert zwischen sich und den Gegner bringt
+	- Schwert ist beim Block in einer Mischung aus Pflug und Tag von der Schulter
+	- Impuls geben, wenn der Block auf das Schwert trifft, um die Klinge zu stoppen
 
 ## Unterhau
 
@@ -165,11 +194,30 @@
 - falls passiver Versatz erfolgt, Schwert auf halbem Weg (ca. 45°) in den Ochs ziehen
 - Stich oder Hieb am Versatz vorbei
 
+## Übungen
+
+- 8er-Mühle
+	- Oberhau aus dem Tag von der Schulter rechts in den linken Wechsel
+	- Unterhau aus dem linken Wechsel in den rechten Ochs
+	- hoher Unterhau aus dem rechten Ochs in den linken Ochs
+	- Oberhau aus dem linken Ochs in den rechten Wechsel
+	- Unterhau mit kurzer Schneide aus dem rechten Wechsel bis auf halbe Höhe
+	- weiterer Unterhau aus halber Höhe mit kompletter Rotation des Schwerts
+	- Daumen bleibt auf der Innenseite
+	- umschlagen mit kompletter Rotation des Schwerts in Pflug
+	- Schielhau
+
 # Stich
 
 - Angriff mit dem Ort
 - vorher die Arme nicht zurückziehen, sondern nur nach vorn arbeiten
 - Distanz über Schritte verkürzen, nicht nach vorn beugen, um einen sicheren Stand zu halten
+
+## Übungen
+
+- Stichtraining
+	- festes Ziel mit Stich treffen 
+	- Handschuh an einer Wand herunterrutschen lassen und mit Stich treffen
 
 # Schnitt
 
@@ -216,7 +264,8 @@
 - Oberhau im Schlag abklappen
 - Schritt seitlich nach vorn
 	- Impuls auf die gegnerische Klinge und diese nach unten drücken
-	- mit der Schwäche auf die gegnerische Klingenstärke
+	- gegen Ochs mit der Schwäche auf die gegnerische Klingenstärke
+	- sonst mit der Stärke auf die gegnerische Klingenschwäche
 	- danach Gegner ungedeckt
 - oder:
 	- anbinden und weg drücken
@@ -252,7 +301,7 @@
 - fühlen im Bande
 	- Druck des Gegners im Anbinden einschätzen
 
-## Duplieren
+## Mutieren
 
 - eigener Druck stärker
 - zum Gegner drücken und Position ähnlich zum Ochs in Richtung des Drucks einnehmen
@@ -261,7 +310,7 @@
 	- Zeichen dafür, dass Fechter zu nah sind oder ein direkter Treffer möglich gewesen wäre
 	- trotzdem weiter drücken
 
-## Mutieren
+## Duplieren
 
 - eigener Druck schwächer
 - nachgeben in Richtung des Drucks
@@ -273,6 +322,13 @@
 	- Gegner drückt mit eigener Kraft das Schwert zu sich
 	- eventuell Daumenstützgriff
 - Parierstange schützt vor gegnerischer Klinge
+
+## Übungen
+
+- fühlen im Bande
+	- Übungspartner stehen sich im Sprechfenster gegenüber
+	- einer versucht Hieb auf eine Schulter
+	- anderer reagiert mit Duplieren oder Mutieren
 
 # Ringen
 
@@ -323,7 +379,7 @@
 ## Halbschwerthebel
 
 - Ausgangsstellung: Sprechfenster
-- gleitschritt zum Gegner
+- Gleitschritt zum Gegner
 - gegnerische Klinge mit Parierstange zum Gegner drücken
 - mit Knauf über den gegnerischen Arm gehen
 - schwache Hand lösen und als Halbschwert greifen
