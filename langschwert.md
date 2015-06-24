@@ -2,7 +2,7 @@
 
 - Blatt: gesamte Schwertklinge
 - Gehilz: alles außer der Schwertklinge
-- Ort: Spitze des Schwertes
+- Ort: Spitze des Schwerts
 - Schwäche: obere Klingenhälfte
 - Stärke: untere Klingenhälfte
 - Lange Schneide: bei normalem Griff zum Gegner zeigend bzw. in Richtung Fingerknöchel
@@ -22,8 +22,8 @@
 # Stand
 
 - immer fester Stand
-	- Beine nebeneinander
-	- rechten Fuß 90° an der Ferse abwinkeln, dann nochmal 90° in die entgegengesetzte Richtung an der Fußspitze
+	- Füße aneinander stellen
+	- Fuß auf der starken Seite 90° an der Ferse abwinkeln, dann nochmal 90° in die entgegengesetzte Richtung an der Fußspitze
 	- eventuell etwas korrigieren
 - etwas breitbeinig (Füße auf Schulterbreite)
 - Knie nicht durchgedrückt
@@ -84,7 +84,7 @@
 ## Ochs
 
 - Ort auf Kopf des Gegner gerichtet
-- Hände nach links oder rechts auf Kopfhöhe oder über dem Kopf vorgestreckt
+- Hände nach links oder rechts über Kopfhöhe vorgestreckt
 - Daumenstützgriff
 
 ## Hängender Ort
@@ -98,7 +98,7 @@
 - Hände auf Hüfthöhe
 - Ort zeigt zum gegnerischen Gesicht
 - Daumenstützgriff möglich
-- linker Pflug: kurze Schneide zum Gegner
+- Pflug auf schwacher Seite: kurze Schneide zum Gegner
 - eher defensive Haltung
 
 ## Wechsel
@@ -197,15 +197,14 @@
 ## Übungen
 
 - 8er-Mühle
-	- Oberhau aus dem Tag von der Schulter rechts in den linken Wechsel
-	- Unterhau aus dem linken Wechsel in den rechten Ochs
-	- hoher Unterhau aus dem rechten Ochs in den linken Ochs
-	- Oberhau aus dem linken Ochs in den rechten Wechsel
-	- Unterhau mit kurzer Schneide aus dem rechten Wechsel bis auf halbe Höhe
-	- weiterer Unterhau aus halber Höhe mit kompletter Rotation des Schwerts
-	- Daumen bleibt auf der Innenseite
-	- umschlagen mit kompletter Rotation des Schwerts in Pflug
+	- Oberhau aus dem Tag von der Schulter auf der starken Seite in den Wechsel zur schwachen Seite
+	- Unterhau aus dem Wechsel auf der schwachen Seite in den Ochs zur starken Seite
+	- hoher Unterhau aus dem Ochs auf der starken Seite in den Ochs zur schwachen Seite
+	- Oberhau aus dem Ochs auf der schwachen Seite in den Wechsel zur starken Seite
+	- Unterhau mit kurzer Schneide aus dem Wechsel auf der starken Seite bis auf halbe Höhe, daraus weiterer Unterhau aus halber Höhe mit kompletter Rotation des Schwerts, Daumen bleibt auf der Innenseite
+	- umschlagen mit kompletter Rotation des Schwerts in den Pflug zur starken Seite
 	- Schielhau
+	- Unterhau in Ochs zur starken Seite
 
 # Stich
 
@@ -231,16 +230,16 @@
 - bricht Oberhau
 - Konter: langer Ort
 
-### Schräg rechts
+### Schräg zur starken Seite
 
-- leicht schräger Oberhau etwas nach links versetzt → durch Kraft des gegnerischen Oberhaus wird die Klinge direkt auf den Kopf versetzt (Kraft des gegnerischen Oberhaus einschätzen)
-- rechtes Bein schräg nach rechts vorn, um aus der gegnerischen Trefferzone zu gelangen
-- danach linkes Bein nachziehen oder am Gegner vorbeigehen
+- leicht schräger Oberhau etwas zur schwachen Seite versetzt → durch Kraft des gegnerischen Oberhaus wird die Klinge direkt auf den Kopf versetzt (Kraft des gegnerischen Oberhaus einschätzen)
+- Bein auf der starken Seite schräg nach vorn, um aus der gegnerischen Trefferzone zu gelangen
+- danach Bein auf der schwachen Seite nachziehen oder am Gegner vorbeigehen
 
-### Seitlich links
+### Seitlich zur schwachen Seite
 
-- Oberhau etwas nach links versetzt → durch Kraft des gegnerischen Oberhaus wird die Klinge direkt auf den Kopf versetzt (Kraft des gegnerischen Oberhaus einschätzen)
-- Schritt als ob man links am Gegner vorbei laufen möchte
+- Oberhau etwas zur schwachen Seite versetzt → durch Kraft des gegnerischen Oberhaus wird die Klinge direkt auf den Kopf versetzt (Kraft des gegnerischen Oberhaus einschätzen)
+- Schritt als ob man zur schwachen Seite am Gegner vorbei laufen möchte
 
 ## Scheitelhau
 
@@ -289,8 +288,8 @@
 - Ausgangsstellung: Hut vom Tag Schulter
 - bricht vom Tag
 - in den Ochs gehen
-- von rechts: Hieb mit kurzer Schneide
-- von links: Hieb mit langer Schneide
+- von starker Seite: Hieb mit kurzer Schneide
+- von schwacher Seite: Hieb mit langer Schneide
 - Ort am Ende hinter dem Kopf des Gegners
 
 # Winden
@@ -337,7 +336,7 @@
 - Ausgangsstellung: Sprechfenster
 - Gleitschritt zum Gegner
 - gegnerische Klinge mit Parierstange und Rückhand zum Gegner drücken
-- mit linker Hand hinter den Ellenbogen greifen und die Arme ins Gesicht drücken
+- mit schwacher Hand hinter den Ellenbogen greifen und die Arme ins Gesicht drücken
 - Gegner so weiter wegschieben und mit Schwert Hieb oder Stich ausführen
 - Konter: schnelles zurückweichen oder während Druck aufgebaut wird zur Seite drehen und Schwert vor den Kopf hochziehen und Hieb setzen
 
@@ -408,7 +407,7 @@
 - während gegnerischem Hieb in den hängenden Ort gehen
 - leicht Schräg auf den Gegner zugehen, um aus der Angriffslinie zu kommen
 - gegnerische Klinge abgleiten lassen
-- linke Hand lösen, auf Gegner weiter zugehen und gegnerischen Arm umgreifen und mit dem Knauf schlagen oder am Hals greifen und werfen
+- schwache Hand lösen, auf Gegner weiter zugehen und gegnerischen Arm umgreifen und mit dem Knauf schlagen oder am Hals greifen und werfen
 
 ## Schulterschloss
 
