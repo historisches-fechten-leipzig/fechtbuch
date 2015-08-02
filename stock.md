@@ -1,11 +1,13 @@
-# Haltung
+# Fechtbuch Stock
+
+## Haltung
 
 - Kraftdreieck
 - starker Arm führt die Waffe, schwacher Arm unterstützt nur
 - schwache Hand auf die starke Hand zum Schutz und Schwung geben
 - Hände nah am Körper lassen, nur wenn der Stock zum Gegner geht, geht auch der Arm mit nach vorn
 
-# Stand
+## Stand
 
 - immer fester Stand
 	- Beine nebeneinander
@@ -14,7 +16,7 @@
 - etwas breitbeinig (Füße auf Schulterbreite)
 - Knie nicht durchgedrückt
 
-# Aufwärmübungen
+## Aufwärmübungen
 
 - Arme dehnen
 	- Stock im Kammgriff mit beiden Händen
@@ -35,23 +37,23 @@
 		- Schritt und Schleife schlagen bei der Hälfte der Drehung
 	- Stock um die Hand drehen
 
-# Angriffe
+## Angriffe
 
 - Ausgangsstellung: Stock in beiden Händen, schwache Hand oben (Kammgriff), starke Hand unten (Ristgriff)
 
-## Stich
+### Stich
 
 - Stock durchschieben bis schwache Hand die starke umschließt
 
-## Hieb
+### Hieb
 
 - 
 
-## Rotation
+### Rotation
 
 - 
 
-# Kette
+## Kette
 
 - Ausgangsstellung: Stock in beiden Händen, schwache Hand oben (Kammgriff), starke Hand unten (Ristgriff)
 - Angreifer: Scheitelhau – Stock nach oben ziehen – Oberhau von rechts – Oberhau von links – Unterhau von rechts (beim Wechsel Stock nur nach unten durchziehen und die Hände drehen, keine Ausholbewegung) – Unterhau von links (beim Wechsel keine Ausholbewegung, nur Hände drehen und wieder schlagen)

@@ -1,4 +1,6 @@
-# Haltung
+# Fechtbuch Messer
+
+## Haltung
 
 - Messergriff
 	- Klinge oben aus der Faust raus
@@ -8,7 +10,7 @@
 - bei Wechsel Klinge mit Waffenloser Hand fassen
 - waffenlose Hand nah am Körper
 
-# Stand
+## Stand
 
 - fmmer fester Stand
 - Beine nebeneinander
@@ -17,24 +19,24 @@
 - etwas breitbeinig (Füße auf Schulterbreite)
 - Knie nicht durchgedrückt
 
-# Stich
+## Stich
 
 - 
 
-# Tritt
+## Tritt
 
 - Tritt auf Arm/Waffe
 	- Bein hoch nehmen (90°) und Unterschenkel nach oben schnippen und mit der Fußspitze zutreten
 - Tritt in Unterleib
 	- nach Tritt noch weiter drücken
 
-# Abwehr
+## Abwehr
 
 - zur Seite und Schnitt auf den gegnerischen Arm, mit Waffenloser Hand unterstützen
 - gegnerischen Arm nach unten drücken, mit Waffenloser Hand unterstützen
 - Hände von oben nach unten (Position hoch) / unten nach oben (Position niedrig) wischen und gegnerische Hand wegdrücken
 
-# Unbewaffnete Abwehr
+## Unbewaffnete Abwehr
 
 - Stich
 	- zur Seite ausweichen

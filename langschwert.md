@@ -1,4 +1,6 @@
-# Schwertteile
+# Fechtbuch Langschwert
+
+## Schwertteile
 
 - Blatt: gesamte Schwertklinge
 - Gehilz: alles außer der Schwertklinge
@@ -11,7 +13,7 @@
 - Griff: zum Halten
 - Knauf: Ende des Griffs
 
-# Haltung
+## Haltung
 
 - Kraftdreieck
 - Knauf tendiert zum starken Arm
@@ -19,7 +21,7 @@
 - schwache Hand greift oberhalb des Knaufes oder am Knauf, aber nicht zu fest, sondern führt nur mit
 - Daumenstützgriff: Daumen der Hand an der Parierstange liegt auf dem Blatt für bessere Stabilität
 
-# Stand
+## Stand
 
 - immer fester Stand
 	- Füße aneinander stellen
@@ -28,38 +30,38 @@
 - etwas breitbeinig (Füße auf Schulterbreite)
 - Knie nicht durchgedrückt
 
-# Schritte
+## Schritte
 
 - Kein wippender Gang
 - Oberkörper bleibt auf der selben Position
 - leicht tief
 
-## Halbschritt
+### Halbschritt
 
 - auch Passschritt
 - Schritt mit einem Bein am anderen vorbei
 
-## Schritt
+### Schritt
 
 - doppelter Halbschritt
 - wie normales gehen
 
-## Nachstellschritt
+### Nachstellschritt
 
 - hinteren Fuß kurz hinter vorderen Fuß vorn zum Untersetzen
 
-## Gleitschritt
+### Gleitschritt
 
 - vorderen Fuß zuerst etwas nach vorn bewegen
 - hinteren Fuß nachziehen
 
-# Huten
+## Huten
 
 - Ausgangs- und Endpositionen von diversen Techniken
 
-## Vom Tag
+### Vom Tag
 
-### Schulter
+#### Schulter
 
 - Schwert aufrecht an der Schulter gehalten
 - Parierstange auf Achselhöhe
@@ -68,31 +70,31 @@
 - fast alle Techniken aus dieser Position möglich
 - keine direkte Bedrohung des Gegners
 
-### Über Kopf
+#### Über Kopf
 
 - Hände vor und über dem Kopf, Ort nach oben gerichtet
 - größte Reichweite
 - wirkt meist bedrohlich, Gegner erwidert die Hut, Gegner zum Aufgeben des langen Ortes bewegen
 
-## Langer Ort
+### Langer Ort
 
 - Arme lang
 - Ort direkt auf gegnerisches Gesicht gerichtet
 - defensive Haltung
 - nur Stiche möglich
 
-## Ochs
+### Ochs
 
 - Ort auf Kopf des Gegner gerichtet
 - Hände nach links oder rechts über Kopfhöhe vorgestreckt
 - Daumenstützgriff
 
-## Hängender Ort
+### Hängender Ort
 
 - ähnlich Ochs
 - Ort allerdings nicht auf Kopf des Gegners gerichtet, sondern auf den Bauch und seitlich von der Mitte zur gegenüberliegenden Seite der eigenen Arme versetzt
 
-## Pflug
+### Pflug
 
 - Stand etwas tiefer
 - Hände auf Hüfthöhe
@@ -101,14 +103,14 @@
 - Pflug auf schwacher Seite: kurze Schneide zum Gegner
 - eher defensive Haltung
 
-## Wechsel
+### Wechsel
 
 - Stand etwas tiefer
 - ausgestreckte Arme
 - Ort zeigt seitlich zum Boden
 - kurze Schneide zeigt zum Gegner
 
-## Alber
+### Alber
 
 - Stand etwas tiefer
 - ausgestreckte Arme
@@ -116,12 +118,12 @@
 - defensive Haltung
 - Einladung zum Angriff
 
-## Kronhut
+### Kronhut
 
 - Hände vor und über dem Kopf
 - Schwert seitlich abgewinkelt
 
-# Mensur
+## Mensur
 
 - weit: zwei Schritte oder mehr für erfolgreichen Hieb/Stich benötigt
 	- Zufechten, Annäherung
@@ -130,7 +132,7 @@
 - nah: kein Schritt für erfolgreichen Hieb/Stich benötigt
 	- Schläge mit dem Knauf, Ringen
 
-## Übungen
+### Übungen
 
 - Mensurlaufen
 	- Übungspartner stehen sich im langen Ort gegenüber
@@ -144,7 +146,7 @@
 		- andere Huten hinzunehmen, sporadisch zurück in den langen Ort wechseln, um Abstand zu prüfen
 		- ansagen, ab wann man einen Angriff versuchen würde, Kontrolle durch Außenstehenden
 
-# Haue
+## Haue
 
 - generell gilt:
 	- keinen Bogen schlagen
@@ -154,7 +156,7 @@
 	- Armbewegung vor Beinbewegung, um Gegner so wenig Zeit wie möglich zur Reaktion zu lassen
 	- der Ort sollte zum Gegner fliegen
 
-## Oberhau
+### Oberhau
 
 - Ausgangsstellung: Hut vom Tag Schulter
 - Hieb mit der langen Schneide auf den Kopf
@@ -162,7 +164,7 @@
 - für zusätzliche Geschwindigkeit: Schwert nach vorn stoßen und wieder fangen
 - Endposition: Pflug
 
-### Übungen
+#### Übungen
 
 - Hiebtraining
 	- einer greift mit dem Oberhau an
@@ -173,14 +175,14 @@
 	- Schwert ist beim Block in einer Mischung aus Pflug und Tag von der Schulter
 	- Impuls geben, wenn der Block auf das Schwert trifft, um die Klinge zu stoppen
 
-## Unterhau
+### Unterhau
 
 - Ausgangsstellung: Wechsel, Hut vom Tag Schulter
 - entgegengesetzt zum Oberhau
 - Hieb mit der langen Schneide (aus Wechsel auch mit der kurzen Schneide möglich) auf Becken/Bauchraum
 - Endposition: Ochs
 
-## Mittelhau
+### Mittelhau
 
 - Ausgangsstellung: Hut vom Tag Schulter
 - Hieb zwischen Rippen und Becken
@@ -188,13 +190,13 @@
 - zuerst Schwert in die Richtige Höhe kippen, dann schlagen, um Klinge in der richtigen Stellung zu haben
 - Endposition: Pflug
 
-## Sturzhau
+### Sturzhau
 
 - Beginn wie Oberhau
 - falls passiver Versatz erfolgt, Schwert auf halbem Weg (ca. 45°) in den Ochs ziehen
 - Stich oder Hieb am Versatz vorbei
 
-## Übungen
+### Übungen
 
 - 8er-Mühle
 	- Oberhau aus dem Tag von der Schulter auf der starken Seite in den Wechsel zur schwachen Seite
@@ -206,42 +208,42 @@
 	- Schielhau
 	- Unterhau in Ochs zur starken Seite
 
-# Stich
+## Stich
 
 - Angriff mit dem Ort
 - vorher die Arme nicht zurückziehen, sondern nur nach vorn arbeiten
 - Distanz über Schritte verkürzen, nicht nach vorn beugen, um einen sicheren Stand zu halten
 
-## Übungen
+### Übungen
 
 - Stichtraining
 	- festes Ziel mit Stich treffen 
 	- Handschuh an einer Wand herunterrutschen lassen und mit Stich treffen
 
-# Schnitt
+## Schnitt
 
 - Bewegung der Klinge am Körper des Gegners entlang
 
-# Meisterhaue
+## Meisterhaue
 
-## Zornhau
+### Zornhau
 
 - Ausgangsstellung: Hut vom Tag Schulter
 - bricht Oberhau
 - Konter: langer Ort
 
-### Schräg zur starken Seite
+#### Schräg zur starken Seite
 
 - leicht schräger Oberhau etwas zur schwachen Seite versetzt → durch Kraft des gegnerischen Oberhaus wird die Klinge direkt auf den Kopf versetzt (Kraft des gegnerischen Oberhaus einschätzen)
 - Bein auf der starken Seite schräg nach vorn, um aus der gegnerischen Trefferzone zu gelangen
 - danach Bein auf der schwachen Seite nachziehen oder am Gegner vorbeigehen
 
-### Seitlich zur schwachen Seite
+#### Seitlich zur schwachen Seite
 
 - Oberhau etwas zur schwachen Seite versetzt → durch Kraft des gegnerischen Oberhaus wird die Klinge direkt auf den Kopf versetzt (Kraft des gegnerischen Oberhaus einschätzen)
 - Schritt als ob man zur schwachen Seite am Gegner vorbei laufen möchte
 
-## Scheitelhau
+### Scheitelhau
 
 - Ausgangsstellung: Hut vom Tag über Kopf/Schulter (langsamer)
 - bricht Alber
@@ -256,7 +258,7 @@
 	- kontern durch zurückweichen oder seitlich wegdrücken
 - Schnitt zu den Händen oder Blockieren der Hände mit Nachdruck und Gegner aus Kampfzone schieben
 
-## Krumphau
+### Krumphau
 
 - Ausgangsstellung: Hut vom Tag Schulter
 - bricht Pflug und Ochs
@@ -272,7 +274,7 @@
 - Alternative:
 	- auf die Hände schlagen
 
-## Schielhau
+### Schielhau
 
 - Ausgangsstellung: Hut vom Tag Schulter
 - bricht Langort
@@ -283,7 +285,7 @@
 - Schwert ist in der Entstellung diagonal
 - sich selbst hinter dem Schwert verstecken
 
-## Zwerchhau
+### Zwerchhau
 
 - Ausgangsstellung: Hut vom Tag Schulter
 - bricht vom Tag
@@ -292,7 +294,7 @@
 - von schwacher Seite: Hieb mit langer Schneide
 - Ort am Ende hinter dem Kopf des Gegners
 
-# Winden
+## Winden
 
 - Grundposition: Sprechfenster
 	- Klingen etwa an der Mitte gebunden
@@ -300,7 +302,7 @@
 - fühlen im Bande
 	- Druck des Gegners im Anbinden einschätzen
 
-## Mutieren
+### Mutieren
 
 - eigener Druck stärker
 - zum Gegner drücken und Position ähnlich zum Ochs in Richtung des Drucks einnehmen
@@ -309,7 +311,7 @@
 	- Zeichen dafür, dass Fechter zu nah sind oder ein direkter Treffer möglich gewesen wäre
 	- trotzdem weiter drücken
 
-## Duplieren
+### Duplieren
 
 - eigener Druck schwächer
 - nachgeben in Richtung des Drucks
@@ -322,16 +324,16 @@
 	- eventuell Daumenstützgriff
 - Parierstange schützt vor gegnerischer Klinge
 
-## Übungen
+### Übungen
 
 - fühlen im Bande
 	- Übungspartner stehen sich im Sprechfenster gegenüber
 	- einer versucht Hieb auf eine Schulter
 	- anderer reagiert mit Duplieren oder Mutieren
 
-# Ringen
+## Ringen
 
-## Blockieren
+### Blockieren
 
 - Ausgangsstellung: Sprechfenster
 - Gleitschritt zum Gegner
@@ -340,7 +342,7 @@
 - Gegner so weiter wegschieben und mit Schwert Hieb oder Stich ausführen
 - Konter: schnelles zurückweichen oder während Druck aufgebaut wird zur Seite drehen und Schwert vor den Kopf hochziehen und Hieb setzen
 
-## Reißen
+### Reißen
 
 - Ausgangsstellung: Sprechfenster
 - Gleitschritt zum Gegner
@@ -350,7 +352,7 @@
 	- oder Hebel aufbauen: Arme durchdrücken Knauf nach oben ziehen, mit Klinge Gegner zu Boden drücken
 - Konter: selber mit Knauf reißen, Schritt zur Seite und Hieb zum Gegner, Waffe fallen lasse und Beine des Gegners tief umgreifen, Knie zusammendrücken und Gegner zu Fall bringen
 
-## Fassen
+### Fassen
 
 - Ausgangsstellung: Sprechfenster
 - Gleitschritt zum Gegner
@@ -359,7 +361,7 @@
 - mit schwachem Arm die gegnerischen Arme möglichst nah am Körper umfassen
 - Klinge neu positionieren
 
-## Entwaffnen
+### Entwaffnen
 
 - Ausgangsstellung: Sprechfenster
 - Gleitschritt zum Gegner
@@ -367,7 +369,7 @@
 - gegnerische Waffe zwischen den Händen fassen
 - gegnerische Waffe zu sich ziehen, eigene mit Parierstange an den gegnerischen Hals drücken, dabei gegnerische Klinge mit der Parierstange weiter auf den Gegner drücken
 
-## Verdrehen
+### Verdrehen
 
 - Ausgangsstellung: Sprechfenster
 - Gleitschritt zum Gegner
@@ -375,7 +377,7 @@
 - mit Knauf gegnerischen Arm nach vorn ziehen, damit Gegner Gegendruck aufbauen muss
 - mit schwachen Arm vom Griff lösen und hinter dem Ellenbogen anlegen und Arm des Gegners mit Knauf und Handfläche verdrehen
 
-## Halbschwerthebel
+### Halbschwerthebel
 
 - Ausgangsstellung: Sprechfenster
 - Gleitschritt zum Gegner
@@ -386,7 +388,7 @@
 - dabei Schritt nach vorn und Knie an die Kniekehle des Gegners bringen
 - Gegner über Druck in der Kniekehle und vom Halbschwertgriff zu Fall bringen
 
-## Wurf
+### Wurf
 
 - Ausgangsstellung: Sprechfenster
 - Gleitschritt zum Gegner
@@ -402,14 +404,14 @@
 	- Knie in gegnerisches Knie drücken
 	- Gegner so nach unten drücken
 
-## Abgleiten
+### Abgleiten
 
 - während gegnerischem Hieb in den hängenden Ort gehen
 - leicht Schräg auf den Gegner zugehen, um aus der Angriffslinie zu kommen
 - gegnerische Klinge abgleiten lassen
 - schwache Hand lösen, auf Gegner weiter zugehen und gegnerischen Arm umgreifen und mit dem Knauf schlagen oder am Hals greifen und werfen
 
-## Schulterschloss
+### Schulterschloss
 
 - Ausgangsstellung: Sprechfenster
 - Gleitschritt zum Gegner
@@ -419,7 +421,7 @@
 - Griff gegen gegnerisches Handgelenk drücken
 - gegnerischen Arm hinter seinen Körper schieben und weiterlaufen
 
-## Schere
+### Schere
 
 - Ausgangsstellung: Sprechfenster
 - Gleitschritt zum Gegner
