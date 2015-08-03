@@ -30,6 +30,18 @@
 - etwas breitbeinig (Füße auf Schulterbreite)
 - Knie nicht durchgedrückt
 
+### Übungen
+
+- Schieben
+	- Partner stehen sich gegenüber
+	- einer schiebt mit den Handlächen übereinander auf der Brust des anderen und Ellenbogen nah beieinander
+	- der andere versucht dagegen zu halten
+	- dabei auf den Stand achten, Oberörper aufrecht
+	- Varianten:
+		- verschiedene Schritte ausprobieren
+		- Geschobener gibt Druck plötzlich nach, Schiebender versucht nicht hinterherzutaumeln
+		- Geschobener drückt Schiebenden mit einem Arm an der Schulter zur Seite, Schiebender versucht nicht Position zu halten
+
 ## Schritte
 
 - Kein wippender Gang
@@ -357,7 +369,7 @@
 - Ausgangsstellung: Sprechfenster
 - Gleitschritt zum Gegner
 - gegnerische Klinge mit Parierstange zum Gegner drücken
-- mit Knauf über den gegnerischen Arm und mit dem Knauf an den Händen ziehen
+- mit dem Knauf an den gegnerischen Händen ziehen um Balance zu brechen
 - mit schwachem Arm die gegnerischen Arme möglichst nah am Körper umfassen
 - Klinge neu positionieren
 
