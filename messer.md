@@ -3,16 +3,21 @@
 ## Haltung
 
 - Messergriff
-	- Klinge oben aus der Faust raus
-	- mit Daumen stützen
-- Pickelgriff
-	- Klinge unten aus der Faust raus
+	- Klinge oben aus der Faust heraus
+	- Klinge in einer Linie mit  mit den zweiten Fingerknöcheln
+- Dolchgriff
+	- Klinge unten aus der Faust heraus
+	- Klinge in einer Linie mit  mit den zweiten Fingerknöcheln
+- Pistolengriff
+	- Klinge mit 45° Winkel oben aus der Hand rheaus
+	- Knauf liegt am Handballen an
+	- mit Daumen oben auf dem Griff und gegen die Parrierstange stützen
 - bei Wechsel Klinge mit Waffenloser Hand fassen
-- waffenlose Hand nah am Körper
+- waffenlose Hand nah am Körper, schützt Hals
 
 ## Stand
 
-- fmmer fester Stand
+- immer fester Stand
 - Beine nebeneinander
 - rechten Fuß 90° an der Ferse abwinkeln, dann nochmal 90° in die entgegengesetzte Richtung an der Fußspitze
 - eventuell etwas korrigieren
