@@ -21,7 +21,7 @@
 - Arme dehnen
 	- Stock im Kammgriff mit beiden Händen
 	- eine Hand zum Körper führen und nach unten wieder ausstrecken, so dass die Hand nun um 180 ° gedreht ist
-	- eieder zurück oder mit dem anderen Arm das Gleiche tun
+	- wieder zurück oder mit dem anderen Arm das Gleiche tun
 - Stock rotieren
 	- hinten – unten  – vorn – oben – Seitenwechsel
 	- beim Wechsel Schlag auf den Kopf des Gegners einbauen
@@ -57,7 +57,7 @@
 
 - Ausgangsstellung: Stock in beiden Händen, schwache Hand oben (Kammgriff), starke Hand unten (Ristgriff)
 - Angreifer: Scheitelhau – Stock nach oben ziehen – Oberhau von rechts – Oberhau von links – Unterhau von rechts (beim Wechsel Stock nur nach unten durchziehen und die Hände drehen, keine Ausholbewegung) – Unterhau von links (beim Wechsel keine Ausholbewegung, nur Hände drehen und wieder schlagen)
-- Verteidiger: hängender Ort nach links – Hände auseinander (Ristgriff/flache Hand) – einfache Bblock links – einfacher Block rechts – Unterhau von rechts – Unterhau von links, für die Wechsel selbe Anmerkungen wie für den Angreifer
+- Verteidiger: hängender Ort nach links – Hände auseinander (Ristgriff/flache Hand) – einfacher Block links – einfacher Block rechts – Unterhau von rechts – Unterhau von links, für die Wechsel selbe Anmerkungen wie für den Angreifer
 	- Impuls beim Zusammenprall der Stöcke wichtig
 - wechselnde Rollen nach jedem Durchgang
 - Varianten:

@@ -34,9 +34,9 @@
 
 - Schieben
 	- Partner stehen sich gegenüber
-	- einer schiebt mit den Handlächen übereinander auf der Brust des anderen und Ellenbogen nah beieinander
-	- der andere versucht dagegen zu halten
-	- dabei auf den Stand achten, Oberörper aufrecht
+	- einer schiebt mit den Handflächen übereinander auf der Brust des anderen und Ellenbogen nah beieinander
+	- der andere versucht dagegenzuhalten
+	- dabei auf den Stand achten, Oberkörper aufrecht
 	- Varianten:
 		- verschiedene Schritte ausprobieren
 		- Geschobener gibt Druck plötzlich nach, Schiebender versucht nicht hinterherzutaumeln
@@ -146,14 +146,14 @@
 
 ### Übungen
 
-- Mensurlaufen
+- Mensur laufen
 	- Übungspartner stehen sich im langen Ort gegenüber
 	- Klingen berühren sich und überschneiden sich handbreit
 	- einer führt mit beliebigen Schritten
 	- anderer muss mit beliebigen Schritten die Mensur halten
 	- Varianten:
 		- abwechselnd drei Schritte auf die der andere reagieren muss
-		- wenn Klinge zu nah kommt Schwertschneide horizontal eindrehen und so Ort versetzen
+		- wenn Klinge zu nah kommt, Schwertschneide horizontal eindrehen und so Ort versetzen
 		- zusätzlich kann der Versetzte die Klinge unter dem gegnerischen Schwert auf die andere Seite bringen
 		- andere Huten hinzunehmen, sporadisch zurück in den langen Ort wechseln, um Abstand zu prüfen
 		- ansagen, ab wann man einen Angriff versuchen würde, Kontrolle durch Außenstehenden
@@ -339,7 +339,7 @@
 ### Übungen
 
 - fühlen im Bande
-	- Übungspartner stehen sich im Sprechfenster gegenüber
+	- Ausgangsstellung: Sprechfenster
 	- einer versucht Hieb auf eine Schulter
 	- anderer reagiert mit Duplieren oder Mutieren
 

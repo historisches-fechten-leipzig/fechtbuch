@@ -9,10 +9,10 @@
 	- Klinge unten aus der Faust heraus
 	- Klinge in einer Linie mit  mit den zweiten Fingerknöcheln
 - Pistolengriff
-	- Klinge mit 45° Winkel oben aus der Hand rheaus
+	- Klinge mit 45° Winkel oben aus der Hand heraus
 	- Knauf liegt am Handballen an
-	- mit Daumen oben auf dem Griff und gegen die Parrierstange stützen
-- bei Wechsel Klinge mit Waffenloser Hand fassen
+	- mit Daumen oben auf dem Griff und gegen die Parierstange stützen
+- bei Wechsel Klinge mit waffenloser Hand fassen
 - waffenlose Hand nah am Körper, schützt Hals
 
 ## Stand
