@@ -283,7 +283,7 @@
 - oder:
 	- anbinden und weg drücken
 	- Ort in die Mitte bringen
-- Alternative:
+- Varinate:
 	- auf die Hände schlagen
 
 ### Schielhau
@@ -442,3 +442,35 @@
 - schwache Hand vom Griff lösen
 - Knauf um gegnerisches Handgelenk umschlagen
 - Knauf mit schwacher Hand fassen und zu sich ziehen
+
+## weitere Techniken
+
+### Nachreißen
+
+- Ausgangsstellung: Gegner greift mit Oberhau an
+- dem Schlag durch seitliches zurückweichen entziehen
+- Hieb in die selbe Richtung wie der Gegner auf Arme oder Körper, sobald der gegnerische Hieb keine Bedrohung mehr ist
+
+### Durchwechseln
+
+- Ausgangsstellung: Angriff mit Oberhau als Finte
+- Gegner versucht Block
+- zusammen mit seitlichem Schritt Klinge unter den Händen des Gegners auf die andere Seite bringen
+- Hieb auf Arme oder Körper
+
+### Schnappen
+
+- Ausgangsstellung: Gegner greift mit Oberhau an
+- Angriff wird nach außen versetzt
+- Druck der gegnerischen Klinge nachgeben und mit Rotation umschlagen
+
+### Verfliegen
+
+- ähnlich Schnappen nur ohne Druck des Gegners und ohne Bindung
+
+### Abnehmen
+
+- Ausgangsstellung: Gegner greift mit Oberhau an
+- Angriff wird nach außen versetzt
+- Knauf nach vorn drücken, um eigene Klinge an der Klinge des Gegners zurückgehen zu lassen
+- sobald Ort an der gegnerischen Klinge vorbei ist, Hieb zum Gegner von innen am Block vorbei
