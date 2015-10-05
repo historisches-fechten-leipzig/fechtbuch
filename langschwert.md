@@ -157,6 +157,7 @@
 		- zusätzlich kann der Versetzte die Klinge unter dem gegnerischen Schwert auf die andere Seite bringen
 		- andere Huten hinzunehmen, sporadisch zurück in den langen Ort wechseln, um Abstand zu prüfen
 		- ansagen, ab wann man einen Angriff versuchen würde, Kontrolle durch Außenstehenden
+		- einer führt mit Schwert im langen Ort, lässt ab und zu das Schwert sinken und der andere greift mit Oberhau an
 
 ## Haue
 
@@ -311,7 +312,7 @@
 - Grundposition: Sprechfenster
 	- Klingen etwa an der Mitte gebunden
 	- Gegner zwischen den Klingen hindurch sichtbar
-- fühlen im Bande
+- Fühlen im Bande
 	- Druck des Gegners im Anbinden einschätzen
 
 ### Mutieren
@@ -338,10 +339,14 @@
 
 ### Übungen
 
-- fühlen im Bande
+- Fühlen im Bande
 	- Ausgangsstellung: Sprechfenster
 	- einer versucht Hieb auf eine Schulter
 	- anderer reagiert mit Duplieren oder Mutieren
+- Arbeiten aus der Bindung
+	- Ausgangsstellung: Sprechfenster
+	- abwechselnd Stich und Abwehr
+	- Hände unter Schulterhöhe lassen
 
 ## Ringen
 
@@ -443,7 +448,17 @@
 - Knauf um gegnerisches Handgelenk umschlagen
 - Knauf mit schwacher Hand fassen und zu sich ziehen
 
-## weitere Techniken
+### Sonne zeigen
+
+- Ausgangsstellung: Sprechfenster
+- Knauf umschlagen
+- Halbschritt seitlich zum Gegner
+- schwache Hand vom Griff lösen
+- schwache Hand von hinten auf gegnerische Stirn legen, Finger in die Augen/Nase
+- gegnerischen Kopf nach hinten ziehen
+- Gegner nach unten drücken
+
+## Weitere Techniken
 
 ### Nachreißen
 
