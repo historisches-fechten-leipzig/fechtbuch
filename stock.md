@@ -40,6 +40,13 @@
 ## Angriffe
 
 - Ausgangsstellung: Stock in beiden Händen, schwache Hand oben (Kammgriff), starke Hand unten (Ristgriff)
+- Varianten: Stock in Armbeuge
+	- Wechsel in Variante:
+		- Stich andeuten
+		- auf halbem Weg Stock mit der schwachen Hand zurücknehmen
+	- Wechsel aus Variante:
+		- Stock mit Arm anwerfen
+		- horizontaler Hieb mit Schleife am Ende in Ausgangsstellung
 
 ### Stich
 
