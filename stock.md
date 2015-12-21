@@ -71,3 +71,116 @@
 	- Stich gefolgt von vier rotierenden Angriffen
 	- danach Kette anfügen
 
+## Formen
+
+### Stich, Scheitelhau
+
+- Ausgangsstellung: weiter Griff
+- Stich
+- Stock zurücknehmen und nah am Körper zum Rücken führen
+- Scheitelhau
+
+### Stich, umdrehen, Hieb, Scheitelhau
+
+- Ausgangsstellung: weiter Griff
+- Stich
+- Blick über die Schulter, um zu schauen, ob sich hinter einem ein weiterer Gegner befindet
+- Stock an den Oberarm anlegen
+- anwerfen mit Unterstützung des Oberarmes
+- horizontaler Hieb
+- Stock zurücknehmen und nah am Körper zum Rücken führen
+- Scheitelhau
+
+### angedeuteter Stich, Hieb
+
+- Ausgangsstellung: weiter Griff
+- Stich andeuten
+- auf halbem Weg in Hieb umwandeln
+- Hieb von der anderen Seite
+
+### angedeuteter Stich, Hieb, geblockt, schnelles rumziehen und nachschlagen
+
+- Ausgangsstellung: weiter Griff
+- Stich andeuten
+- auf halbem Weg in Hieb umwandeln
+- wird von Gegner geblockt
+- Stock weiterziehen, bis Ende am gegnerischen Stock vorbei ist
+- Hieb von der anderen Seite
+
+### doppelter Hieb
+
+- Ausgangsstellung: weiter Griff
+- Auftaktschritt mit schwachem Bein
+- Hieb
+- Halbschritt
+- Hieb von der selben Seite
+- durchziehen zur anderen Seite
+- Auftaktschritt mit starkem Bein
+- Hieb
+- Halbschritt
+- Hieb von der selben Seite
+- erster Hieb soll gegnerischen Stock wegschlagen, zweiter treffen
+
+### dreifach Hieb
+
+- Ausgangsstellung: hängender Ort
+- Auftaktschritt mit schwachem Bein
+- Hieb
+- halber Schritt
+- Hieb
+- schwaches Bein seitlich versetzt nachziehen
+- Hieb
+- Hiebe sollen sich am Gegner vom Stock zum Rücken entlangarbeiten
+
+### weiter tiefer Hieb
+
+- Ausgangsstellung: hängender Ort
+- Ausfallschritt mit schwachem Bein
+- weiter, tiefer, horizontaler Hieb gegen die Beine
+- mit Hieb zurückgehen
+- Schleife neben dem Kopf, um Schwung mitzunehmen
+
+### 180° Drehung
+
+- Ausgangsstellung: hängender Ort
+- halber Schritt
+- Rotattion über dem Kopf
+- auf dem Bein drehen und anderes nachziehen
+- Rotattion über dem Kopf
+
+### 360° Drehung
+
+- Ausgangsstellung: hängender Ort
+- halber Schritt
+- Rotattion über dem Kopf
+- auf dem Bein drehen und anderes nachziehen
+- Rotattion über dem Kopf
+- auf dem Bein drehen und anderes nachziehen
+- Rotattion über dem Kopf
+
+## Übungen im Raum
+
+### Raute
+
+- 4 Personen in Raute aufgestellt
+- doppelter Schlag beidseitig bei jeder Person
+- bereits mit den Schlägen in Richtung der nächsten Person arbeiten
+
+### Stern
+
+- 4 Personen herum aufgestellt
+- doppelter Schlag einseitig, Seite zwischen Personen wechseln
+- flüssiger Wechsel zwischen den Personen, vom Stock ziehen lassen
+- Varinate:
+	- einfacher Schlag, nur von einer Seite
+
+### aus Ecke entkommen
+
+- einer steht in Ecke und versucht wegzukommen
+- ein oder zwei versuchen diesen mit Stichen in der Ecke zu halten
+
+### zum Ausgang kommen
+
+- einer steht an einem Ende
+- zwei andere stehen am Ausgang
+- sollen verhindern, dass dieser den Ausgang erreicht
