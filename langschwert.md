@@ -158,6 +158,10 @@
 		- andere Huten hinzunehmen, sporadisch zurück in den langen Ort wechseln, um Abstand zu prüfen
 		- ansagen, ab wann man einen Angriff versuchen würde, Kontrolle durch Außenstehenden
 		- einer führt mit Schwert im langen Ort, lässt ab und zu das Schwert sinken und der andere greift mit Oberhau an
+- Mensurlaufen mit Reaktion
+	- einer führt im langen Ort
+	- der andere steht im Tag von der Schulter und muss die Distanz halten
+	- der führende lässt ab und zu das Schwert sinken und der andere schlägt so schnell wie möglich auf diesen
 
 ## Haue
 
@@ -187,6 +191,9 @@
 	- anderer versetzt den Angriff indem er sein Schwert zwischen sich und den Gegner bringt
 	- Schwert ist beim Block in einer Mischung aus Pflug und Tag von der Schulter
 	- Impuls geben, wenn der Block auf das Schwert trifft, um die Klinge zu stoppen
+- Block mit hängendem Ort
+	- einer greift mit dem Oberhau an
+	- anderer geht in den hängenden Ort mit dem Ort in die Richtung zeigend, aus der der Hieb kommt
 
 ### Unterhau
 
@@ -220,6 +227,9 @@
 	- umschlagen mit kompletter Rotation des Schwerts in den Pflug zur starken Seite
 	- Schielhau
 	- Unterhau in Ochs zur starken Seite
+- Distanzgefühl
+	- einer steht nur an einem Punkt
+	- anderer nähert sich aus der weiten Mensur und greift an, sobald er sich nah genug fühlt
 
 ## Stich
 
