@@ -240,7 +240,7 @@
 ### Übungen
 
 - Stichtraining
-	- festes Ziel mit Stich treffen 
+	- festes Ziel mit Stich treffen
 	- Handschuh an einer Wand herunterrutschen lassen und mit Stich treffen
 
 ## Schnitt
@@ -327,7 +327,7 @@
 
 ### Mutieren
 
-- eigener Druck stärker
+- Gegner drückt schwach
 - zum Gegner drücken und Position ähnlich zum Ochs in Richtung des Drucks einnehmen
 - Schwert dabei drehen und mit der kurzen Schneide den Angriff durchführen
 - verkeilen mit Parierstange
@@ -336,10 +336,10 @@
 
 ### Duplieren
 
-- eigener Druck schwächer
+- Gegner drückt stark
 - nachgeben in Richtung des Drucks
 - danach umschnappen
-	- Hände nach oben ziehen 
+	- Hände nach oben ziehen
 	- Endposition ähnlich dem Ochs zur Seite des Drucks
 	- Schwert nach innen eindrehen
 	- Hieb auf den Gegner
@@ -358,7 +358,7 @@
 	- abwechselnd Stich und Abwehr
 	- Hände unter Schulterhöhe lassen
 
-## Ringen
+## Ringen am Schwert
 
 ### Blockieren
 
@@ -425,7 +425,7 @@
 	- abtauchen zum Gegner mit Oberkörper und Arm vor den gegnerischen Oberkörper
 	- Knie in gegnerisches Knie drücken
 	- Gegner so nach unten drücken
-- sonst: 
+- sonst:
 	- mit schwachen Arm vom Griff lösen
 	- mit Arm gegen gegnerische Schulter/Hals drücken
 	- Knie in gegnerisches Knie drücken

@@ -7,4 +7,3 @@ Der [Markdown](http://daringfireball.net/projects/markdown/)-Text kann beispiels
 ```
 pandoc langschwert.md -o langschwert.pdf
 ```
-

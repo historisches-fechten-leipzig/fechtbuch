@@ -144,19 +144,19 @@
 
 - Ausgangsstellung: hängender Ort
 - halber Schritt
-- Rotattion über dem Kopf
+- Rotation über dem Kopf
 - auf dem Bein drehen und anderes nachziehen
-- Rotattion über dem Kopf
+- Rotation über dem Kopf
 
 ### 360° Drehung
 
 - Ausgangsstellung: hängender Ort
 - halber Schritt
-- Rotattion über dem Kopf
+- Rotation über dem Kopf
 - auf dem Bein drehen und anderes nachziehen
-- Rotattion über dem Kopf
+- Rotation über dem Kopf
 - auf dem Bein drehen und anderes nachziehen
-- Rotattion über dem Kopf
+- Rotation über dem Kopf
 
 ## Übungen im Raum
 
@@ -171,7 +171,7 @@
 - 4 Personen herum aufgestellt
 - doppelter Schlag einseitig, Seite zwischen Personen wechseln
 - flüssiger Wechsel zwischen den Personen, vom Stock ziehen lassen
-- Varinate:
+- Variante:
 	- einfacher Schlag, nur von einer Seite
 
 ### aus Ecke entkommen
